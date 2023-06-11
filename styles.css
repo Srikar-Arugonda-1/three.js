@@ -1,0 +1,57 @@
+/* *{
+    border: 1px solid red;
+} */
+body{
+    background-color: #06191D;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.introduction{
+    margin-top: 240px;
+    margin-left: 200px;
+    position: relative;
+}
+.intro{
+    margin-right: 600px;
+    color: white;
+    font-size: 100px;
+    font-weight: 700px;
+}
+.color{
+    color: purple;
+}
+.coder{
+    font-size: 60px;
+}
+img{
+    position: absolute;
+    right: 200px;
+    top: 0;
+}
+.aboutme{
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding: 30px;
+    padding-top: 70px;
+    font-size: 60px;
+    border-top: 2px solid white;
+    color: rgb(209, 132, 233);
+}
+.info{
+    color: white;
+    font-size: 30px;
+}
+.model{
+    margin-top: 100px;
+    color: white;
+    border-top: 2px solid white;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding: 30px;
+    padding-top: 70px;
+}
+div.head{
+    font-size: 60px;
+    color: rgb(209, 132, 233);
+}

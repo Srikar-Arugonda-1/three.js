@@ -1,0 +1,11 @@
+Model Information:
+* title:	Formula E  [Jaguar I Type-4]
+* source:	https://sketchfab.com/3d-models/formula-e-jaguar-i-type-4-c722e175f91240a88eec2d777b6d503f
+* author:	3dblenderlol (https://sketchfab.com/3dblenderlol)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Formula E  [Jaguar I Type-4]" (https://sketchfab.com/3d-models/formula-e-jaguar-i-type-4-c722e175f91240a88eec2d777b6d503f) by 3dblenderlol (https://sketchfab.com/3dblenderlol) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
